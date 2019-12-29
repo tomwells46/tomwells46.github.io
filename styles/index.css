@@ -20,16 +20,12 @@ body {
   height: 80%;
 }
 
-#header {
+#header, #nav {
   width: 30%;
   color: white;
   margin: 10% auto 5% auto;
   text-align: center;
   font-family: 'Bungee', cursive;
-}
-
-#nav {
-  text-align: center;
 }
 
 /*Rules for triggers */
