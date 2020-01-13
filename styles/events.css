@@ -1,0 +1,28 @@
+body {
+  height: 1000px;
+  width: auto;
+  border: 1px black;
+}
+
+.flex-container {
+  display: flex;
+  flex-direction: column;
+  width: 80%;
+  height: 80%;
+  margin: auto auto;
+  justify-content: space-evenly;
+}
+
+.flex-row {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  height: 8%;
+}
+
+.box {
+  border: 1px solid black;
+  width: 8%;
+  height: 100%;
+  background-color: #fff;
+}
